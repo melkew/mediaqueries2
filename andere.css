@@ -276,6 +276,7 @@ legend {
 
 progress {
     vertical-align: baseline;
+    
 }
 
 /**
@@ -378,17 +379,3 @@ template {
     display: none;
 }
 
-@media only screen and (min-width: 768px) {
-    body {
-        color: rgb(211, 4, 90);
-        margin: 5px;
-    }
-}
-
-@media only screen and (min-width: 1024px) {
-    body {
-        background-color: yellowgreen;
-        margin: 5px;
-
-    }
-}
